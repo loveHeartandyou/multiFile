@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"3");
+    NSLog(@"30");
     //ceshi
     // Do any additional setup after loading the view, typically from a nib.
 }
